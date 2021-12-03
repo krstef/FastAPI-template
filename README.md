@@ -42,7 +42,7 @@ $ make stop-docker
 Recommended setup for usual development practices is to use `make run-docker`.
 In that mode, `uvicorn` is running in reload on save mode.
 
-However, for specific tasks like package management, it is simpler to install virtual environment managed by `Pipenv`.
+However, for specific tasks like package management, it is simpler to install virtual environment managed by `Poetry`.
 
 For managing code readability and unifying coding style following libraries are used:
 - [black](https://black.readthedocs.io/en/stable/) -> enforces uncompromising code formatting  
