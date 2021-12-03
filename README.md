@@ -8,7 +8,7 @@ This application is managed by [Poetry](https://python-poetry.org/).
 
 To install Poetry on your machine, please follow [Poetry installation guide](https://python-poetry.org/docs/#installation).
 
-One Poetry has been installed, create the virtual environment and install dependencies with:
+Once Poetry has been installed, create the virtual environment and install dependencies with:
 ```bash
 $ make run-docker
 ```
